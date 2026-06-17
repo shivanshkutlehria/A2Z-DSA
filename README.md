@@ -1,2 +1,24 @@
-# A2Z-DSA
-A collection of my C++ solutions to Striver's A2Z DSA Sheet and LeetCode problems. This repository documents my journey of mastering Data Structures and Algorithms for software engineering interviews, with well-organized solutions categorized by topic and difficulty.
+# A2Z DSA
+
+This repository contains my solutions to the A2Z DSA Sheet and LeetCode problems.
+
+## Topics Covered
+
+- Arrays
+- Basic Maths
+- Recursion
+- Binary Search
+- Linked List
+- Trees
+- Graphs
+- Dynamic Programming
+
+## Language
+
+- C++
+
+## Goal
+
+- Complete Striver's A2Z DSA Sheet
+- Strengthen problem-solving skills
+- Prepare for Software Engineering interviews
