@@ -1,0 +1,2 @@
+problem 125 leetcode , for optimal solution of checking palindrome for a string. 
+used isalnum() function for removing commas and other characters just kept alphanumeric ones 
